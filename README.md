@@ -1,3 +1,3 @@
 # dsa_cpp
 
-This repository is used as practive.
+Source code in the "Data Structure and Algorithm Analysis" by Wiss. Only for practice use.
